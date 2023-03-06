@@ -33,6 +33,7 @@ export default{
             inputer:'',
             array:[
                 {text:'Sattar', ishow: false}
+                
             ],
             
         }
